@@ -1,7 +1,7 @@
 # Fitness-Based Growth of Directed Networks with Hierarchy
 
 
-This code based on the work during my PhD can be used to generate directed networks using combinations of preferential attachment based on degree and node fitness interactions. 
+This code based on work during my PhD can be used to generate directed networks using combinations of preferential attachment based on degree and node fitness interactions. 
 
 The code is divided into many variants of the model using different fitness functions, to analyse the structure of a single network or many. In a way that was convenient to generate the figures for research work. Most of the jupyter notebooks contain repeated base code with some feature changed to the one which they intended to analyse. Example figures are also left in the jupyter notebook but not necessarily the ones used in the submitted work as these can be reproduced by changing the parameters in the code to match the ones listed in the paper. There also may be some superfluous variables and plots that arise from moving between functions and refer to other variables but the relevant variables should all be contained in each notebook. 
 
