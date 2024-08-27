@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/775540456.svg)](https://zenodo.org/doi/10.5281/zenodo.13378865)
 
-This code was used to generate the results of the paper "Fitness-Based Growth of Directed Networks with Hierarchy" by Niall Rodgers, Peter Tino and Samuel Johnson. Accepted by the Jounral of Physics: Complexity, an intial verison is also avaliable on arXiv https://arxiv.org/abs/2405.06395
+This code was used to generate the results of the paper "Fitness-Based Growth of Directed Networks with Hierarchy" by Niall Rodgers, Peter Tino and Samuel Johnson. Accepted by the Jounral of Physics: Complexity, an initial verison is also avaliable on arXiv https://arxiv.org/abs/2405.06395
 
 
 This code based on work during my PhD can be used to generate directed networks using combinations of preferential attachment based on degree and node fitness interactions. 
